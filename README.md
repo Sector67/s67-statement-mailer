@@ -16,3 +16,6 @@ To begin using it:
   </li>
   <li>visit index.html and everything should work :)</li>
 </ol>
+
+
+To change the message it sends or the fields it accepts, edit mailer.php
