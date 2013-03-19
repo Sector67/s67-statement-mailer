@@ -19,7 +19,7 @@ require_once('header.php');
 
 <div id="wrapper">
   <div class="loading-indicator hidden">
-    <img class="loading-gif" src="/img/loading.gif">
+    <img class="loading-gif" src="img/loading.gif">
   </div>
   <form enctype="multipart/form-data" action="upload_handler.php" class="clear" id="csvform">
     <label>Csv File: </label><input type="file" name="csvfile" id="file" value=""><br />
