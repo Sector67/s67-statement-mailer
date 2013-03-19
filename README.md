@@ -10,8 +10,8 @@ To begin using it:
  <li>download a copy</li>
  <li>create a config.php file in the root directory with two variables:
     <ul>
-    - $USERNAME
-    - $PASSWORD
+      <li>$USERNAME</li>
+      <li>$PASSWORD</li>
     </ul>
   </li>
   <li>visit index.html and everything should work :)</li>
