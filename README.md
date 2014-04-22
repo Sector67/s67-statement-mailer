@@ -1,7 +1,7 @@
-Sector 67 Mailer Robot
-======================
+About
+=====
 
-This script is a _very_ simple single page app that sends emails based on a csv file that is uploaded by the user with each use.
+This script is a _very_ simple single app that sends emails based on a csv file that is uploaded by the user with each use.
 
 
 To begin using it:
